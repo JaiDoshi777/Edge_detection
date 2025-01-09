@@ -18,4 +18,11 @@ o	sobely: Gradient in the y direction.
 7.	Morphological Gradient:
 •	The morphological gradient operation is applied to the blended gradients using a kernel. This operation helps in enhancing the edges and features in the image.
 
+![image](https://github.com/user-attachments/assets/d51b0945-66fa-4ea6-a8de-6bcb06da249d)
+![image](https://github.com/user-attachments/assets/6a9df18e-8624-4ea5-afe5-498a31d96adc)
+![image](https://github.com/user-attachments/assets/e2df073a-7cd3-47f9-9d24-84b622e5cdc8)
+![image](https://github.com/user-attachments/assets/84830494-08aa-4e1d-af9b-3f2eb0eef5d6)
+![image](https://github.com/user-attachments/assets/50345dfa-b488-49a1-aafc-179a5c37b7cc)
+![image](https://github.com/user-attachments/assets/9e0e5263-c03c-4afb-8eea-47ba1607e74e)
+![image](https://github.com/user-attachments/assets/269d9aee-9b21-4c4c-99fd-77a2b658d117)
 
