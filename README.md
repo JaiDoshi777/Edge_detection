@@ -1,6 +1,6 @@
-# Edge_detection
-
+# Edge_detection-
 This project focuses on image processing, specifically object and edge detection, using OpenCV and various image processing techniques. 
+
 1.	Gradient Calculations:
 •	Sobel Operator: The code calculates the gradients of an image using the Sobel operator in both the x and y directions. This helps in detecting edges in the image by highlighting regions of high intensity change.
 o	sobelx: Gradient in the x direction.
